@@ -1,5 +1,5 @@
 # simulation of quadcopter using matlab 
-  Authors : Munyararadzi P Antony (G40904968) & Min Thiha Soe (Gxxxxxxxxx)
+  Authors : Munyararadzi P Antony (G40904968) & Min Thiha Soe (G40251428)
 
 1. Each Simulation is separated into different files
 2. Open the quad_sim.slx to and run the simulation.
